@@ -1,0 +1,28 @@
+{
+  "prescriptions": [
+    {
+      "id": 1,
+      "patientName": "Samyam Bahadur BC",
+      "prescriptionTitle": "High Fever & Cough",
+      "prescriptionDate": "2022-02-28",
+      "docSignature": "7845448545444444",
+      "consultationTime": "1:38"
+    },
+    {
+      "id": 1,
+      "patientName": "Rahul Rimal",
+      "prescriptionTitle": "Common Cold",
+      "prescriptionDate": "2022-01-12",
+      "docSignature": "784544854096544",
+      "consultationTime": "10:20"
+    },
+    {
+      "id": 1,
+      "patientName": "Rahul Sharma",
+      "prescriptionTitle": "Covid-19",
+      "prescriptionDate": "2021-11-12",
+      "docSignature": "784544856754444",
+      "consultationTime": "18:04"
+    }
+  ]
+}
